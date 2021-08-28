@@ -1,0 +1,144 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #f0f2f5;
+}
+.logo{
+    display: flex;
+    color: #1877f2;
+    position: absolute;
+    font-size: 60px;
+    margin:198px 10px 150px 45px ;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+.frase{
+    position: absolute;
+    margin:275px 10px 150px 45px ;
+    font-size: 24px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+}
+.block{
+    position: absolute;
+    width: 39%;
+    height: 53%;
+    margin-top: 13%;
+    margin-left: 56%;
+    font-size: 30px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: -5px 5px 20px rgba(177, 177, 177, 0.664);
+
+}
+.email{
+    color: #0d0d0efd;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 5%;
+    width: 88%;
+    height: 15%;
+    border-radius: 6px;
+    font-size: 18px;
+    border: 1px solid #b3b1b1de;
+    padding: 0px 0px 0px 10px;
+}
+.email:hover{
+    border:1px solid rgb(94, 164, 255);
+}
+.senha{
+    color: #110e0efb;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 5%;
+    width: 88%;
+    height: 15%;
+    border-radius: 6px;
+    font-size: 18px;
+    border: 1px solid #adaaaade;
+    padding: 0px 0px 0px 10px;
+    
+}
+.senha:hover{
+    border:1px solid rgb(94, 164, 255);
+}
+
+.entrar{
+    color: #fffefe;
+    position: absolute;
+    margin-top: 37%;
+    margin-left: 5%;
+    width: 91%;
+    height: 14%;
+    border-radius: 7px;
+    font-size: 20px;
+    border:none;
+    padding: 0px 0px 0px 1px;
+    text-align: center;
+    background-color:#1877f2;
+    cursor: pointer;
+    font-family:  'Roboto', sans-serif;
+}
+.entrar:hover{
+    background-color:#2173dd;
+
+}
+
+.esqueceu{
+    position: absolute;
+    margin-top: 53% ;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 34%;
+    color: #1877f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.esqueceu:hover{
+    text-decoration: underline;
+}
+.linha{
+    position: absolute;
+    width: 368px;
+    border: 0,1px solid rgba(233, 233, 233, 0.856);
+    margin-top: 62%;
+    margin-left: 4%;
+    text-decoration: none;
+}
+.novaconta{
+    color: #fffefe;
+    position: absolute;
+    margin-top: 69%;
+    margin-left: 30%;
+    width: 39%;
+    height: 14%;
+    border-radius: 7px;
+    font-size: 17px;
+    border:none;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    background-color:#42b72a;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.criar{
+    position: absolute;
+    margin-top: 94%;
+    margin-left: 5px;
+    font-size: 14px;
+    color: #1c1e21;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.linkcriar{
+    color:#1c1e21;
+    text-decoration: none;
+}
+.linkcriar:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
